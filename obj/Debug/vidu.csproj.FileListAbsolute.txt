@@ -72,8 +72,13 @@ C:\Users\Os\Source\Repos\vidu\vidu\bin\System.Web.WebPages.Razor.xml
 C:\Users\Os\Source\Repos\vidu\vidu\bin\Newtonsoft.Json.xml
 C:\Users\Os\Source\Repos\vidu\vidu\bin\Antlr3.Runtime.pdb
 C:\Users\Os\Source\Repos\vidu\vidu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.csprojAssemblyReference.cache
 C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.csproj.CoreCompileInputs.cache
 C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.csproj.CopyComplete
 C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.dll
 C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.pdb
+C:\Users\Os\Source\Repos\vidu\vidu\bin\EntityFramework.dll
+C:\Users\Os\Source\Repos\vidu\vidu\bin\EntityFramework.SqlServer.dll
+C:\Users\Os\Source\Repos\vidu\vidu\bin\EntityFramework.xml
+C:\Users\Os\Source\Repos\vidu\vidu\bin\EntityFramework.SqlServer.xml
+C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.Migrations.Create_database.resources
+C:\Users\Os\Source\Repos\vidu\vidu\obj\Debug\vidu.csproj.GenerateResource.cache
